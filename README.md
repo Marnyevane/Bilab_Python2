@@ -7,3 +7,4 @@ This is a course in python business
 3. Marnye Guzman
 4. Julissa Riveros
 5. Valerin Cordova
+6. Camila Cabello
