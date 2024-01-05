@@ -8,3 +8,4 @@ This is a course in python business
 4. Julissa Riveros
 5. Valerin Cordova
 6. Camila Cabello
+7. Briggitte Gamboa
